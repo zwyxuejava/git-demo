@@ -11,5 +11,6 @@ hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
 hello atguigu!hello git!
+<<<<<<< HEAD
 hello atguigu!hello git! 33333
-hello atguigu!hello git!
+hello atguigu!hello git! hot-fix test
